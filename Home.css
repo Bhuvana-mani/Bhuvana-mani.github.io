@@ -1,22 +1,18 @@
-
- 
-body {
+ body {
     font-family: Arial;
     padding: 20px;
     background: #f1f1f1;
-  }
- 
- 
-   .leftcolumn {   
+   }
+    .leftcolumn {   
     float: left;
     width: 100%;
-  }
+   }
   
    .card {
      background-color: white;
      padding: 20px;
      margin-top: 20px;
-  }
+   }
   
     .row:after {
     content: "";
