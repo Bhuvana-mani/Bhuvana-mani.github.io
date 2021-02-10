@@ -42,11 +42,11 @@
   
   .navbar a:hover {
     background-color: rgb(46, 24, 24);
-    color: black;
+    color: rgb(151, 142, 142);
   }
   
   .navbar a.active {
-    background-color: #666;
+   /* background-color: rgb(105, 102, 102);*/
     color: white;
   }
   
